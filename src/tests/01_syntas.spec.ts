@@ -13,6 +13,5 @@ test.describe('Homepage - Material PlaywrightVN', () => {
     await expect(page.getByRole('heading', { name: 'User Registration' })).toBeVisible();
   });
 
-  test('')
   
 });
